@@ -2,7 +2,7 @@
 
 ## Description
 
-myLoneStar is a comprehensive expense management tool designed to streamline the process of tracking and managing expenses. Whether you're a business professional, a student, or someone who wants to keep their finances in order, myLoneStar provides an easy-to-use platform that makes financial management a breeze. The project is built using modern web technologies and follows best practices to ensure reliability and performance. myLoneStar allows users to input, categorize, and view their expenses with a clean and intuitive interface, providing insights and reports to help you stay on top of your finances.
+<a href="https://www-mylonestar.com">myLoneStar</a> is a comprehensive expense management tool designed to streamline the process of tracking and managing expenses. Whether you're a business professional, a student, or someone who wants to keep their finances in order, myLoneStar provides an easy-to-use platform that makes financial management a breeze. The project is built using modern web technologies and follows best practices to ensure reliability and performance. myLoneStar allows users to input, categorize, and view their expenses with a clean and intuitive interface, providing insights and reports to help you stay on top of your finances.
 
 ## Features
 
